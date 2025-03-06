@@ -1,7 +1,7 @@
+id = "material-dark"
 name = "Material Dark Theme"
 version = "0.0.3"
+schema_version = 1
 authors = ["Xero <xeroday@duck.com>"]
 description = "Theme that imitates Google's Material Dark theme."
 repository = "https://github.com/xerodark/zed-material-theme"
-id = "material-dark"
-schema_version = 1
